@@ -24,7 +24,7 @@ h1, h2{
 span{color: darkred;
 }
 .pozadina{
-	background-image: url("../slike/pozadina 6.jpg")
+	background-image: url("slike/pozadina_6.jpg")
 }
 .drugapozadina{
 	background-color: #809D7F;
@@ -40,4 +40,5 @@ a:hover{
 	background-color: darkgray;
 }
 img{ height: 200px;
+
 }
